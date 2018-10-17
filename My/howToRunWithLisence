@@ -1,0 +1,3 @@
+yarn es snapshot --license trial
+node scripts/makelogs.js --auth elastic:changeme
+yarn start
